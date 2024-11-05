@@ -1,0 +1,1 @@
+const foo; // syntaxError :  Missing initializer in donst declaration
